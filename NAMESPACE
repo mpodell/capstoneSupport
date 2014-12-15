@@ -1,0 +1,2 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(tm, removePunctuation, removeNumbers, stripWhitespace)

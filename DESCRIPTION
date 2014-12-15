@@ -1,0 +1,10 @@
+Package: capstoneSupport
+Type: Package
+Title: data sets and function for capstone
+Version: 1.0
+Date: 2014-12-14
+Author: Michael O'Dell
+Maintainer: Who to complain to <mp_odell@yahoo.com>
+Description: nothing else to say
+Depends: tm
+License: GPL-2
